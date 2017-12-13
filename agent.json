@@ -1,0 +1,43 @@
+{
+  "description": "",
+  "language": "fr",
+  "disableInteractionLogs": false,
+  "googleAssistant": {
+    "googleAssistantCompatible": true,
+    "project": "api-sushi",
+    "welcomeIntentSignInRequired": false,
+    "startIntents": [],
+    "systemIntents": [],
+    "endIntentIds": [
+      "e6510e96-d8d5-498b-9a6d-39b0f23994a8",
+      "f81a5208-9fe3-46d8-8d5b-e4507e91085d",
+      "b704a960-ec13-4639-98ac-2da31d561601",
+      "c2a8e44e-7783-4c64-9d82-9afc7c341ed7",
+      "778203fc-755a-4720-8e71-ff5ad1af95b2",
+      "7ba75698-2e6a-484d-a930-23b634d33ff4",
+      "73e04867-337f-469c-8d59-42675b76e7ba",
+      "ea963f69-dea0-402e-b923-b011f9dc5c5e",
+      "a1091054-85c2-4e86-a5b2-6c4375fd93c6"
+    ],
+    "oAuthLinking": {
+      "required": false,
+      "grantType": "AUTH_CODE_GRANT"
+    },
+    "voiceType": "MALE_1",
+    "capabilities": [],
+    "protocolVersion": "V2"
+  },
+  "defaultTimezone": "Europe/Madrid",
+  "webhook": {
+    "url": "https://us-central1-api-sushi.cloudfunctions.net/dialogflowFirebaseFulfillment",
+    "available": true,
+    "useForDomains": false,
+    "cloudFunctionsEnabled": true,
+    "cloudFunctionsInitialized": true
+  },
+  "isPrivate": true,
+  "customClassifierMode": "use.after",
+  "mlMinConfidence": 0.3,
+  "supportedLanguages": [],
+  "enableOnePlatformApi": false
+}

@@ -1,0 +1,39 @@
+{
+  "id": "73e04867-337f-469c-8d59-42675b76e7ba",
+  "parentId": "bc4e9630-6ae5-48e3-a53e-1fbf62307082",
+  "rootParentId": "ed41411c-74b1-4a2d-beb5-ad6cf2b2762d",
+  "name": "Default Welcome Intent - yes - 2 - 6 - 13",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-yes-2-6-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-yes.DefaultWelcomeIntent-yes-custom-2.DefaultWelcomeIntent-yes-2-custom-2.DefaultWelcomeIntent-yes-2-6-custom",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-yes-2-6-custom-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": "Magnifique tu as gagné le film 13 ! A la prochaine !"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189126655,
+  "fallbackIntent": false,
+  "events": []
+}

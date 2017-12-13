@@ -1,0 +1,42 @@
+[
+  {
+    "id": "18bd04e6-48b9-4bea-ba9f-d0e1a762832f",
+    "data": [
+      {
+        "text": "5",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "38491e7b-d0a3-4a42-adbd-d461cb3d73f4",
+    "data": [
+      {
+        "text": "Le 5",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "d8dbf65d-235c-4386-8a7c-7c9bc5f2f076",
+    "data": [
+      {
+        "text": "Je préfère ",
+        "userDefined": false
+      },
+      {
+        "text": "le 5",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

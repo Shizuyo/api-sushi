@@ -1,0 +1,46 @@
+[
+  {
+    "id": "025d4611-c485-48ef-915a-b88814d95bbb",
+    "data": [
+      {
+        "text": "1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "6868fbdf-80ef-4bf9-9557-3a63508ee446",
+    "data": [
+      {
+        "text": "Le 1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f0600379-c9c9-4af8-8695-79e31ddcf02e",
+    "data": [
+      {
+        "text": "Je préfère ",
+        "userDefined": false
+      },
+      {
+        "text": "le 1",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " !",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]

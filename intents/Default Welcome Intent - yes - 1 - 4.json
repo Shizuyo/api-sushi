@@ -1,0 +1,39 @@
+{
+  "id": "791a5629-1129-45c6-a7f6-56e59fe55e4b",
+  "parentId": "2ffcc189-e6ab-4516-807d-fc68285c95bb",
+  "rootParentId": "ed41411c-74b1-4a2d-beb5-ad6cf2b2762d",
+  "name": "Default Welcome Intent - yes - 1 - 4",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-yes-1-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-yes.DefaultWelcomeIntent-yes-custom.DefaultWelcomeIntent-yes-1-custom",
+      "affectedContexts": [
+        {
+          "name": "DefaultWelcomeIntent-yes-1-4-followup",
+          "parameters": {},
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": "Super ! Tu préfères le 9 ou le 10 ?"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189126655,
+  "fallbackIntent": false,
+  "events": []
+}

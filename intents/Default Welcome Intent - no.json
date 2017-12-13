@@ -1,0 +1,33 @@
+{
+  "id": "a1091054-85c2-4e86-a5b2-6c4375fd93c6",
+  "parentId": "ed41411c-74b1-4a2d-beb5-ad6cf2b2762d",
+  "rootParentId": "ed41411c-74b1-4a2d-beb5-ad6cf2b2762d",
+  "name": "Default Welcome Intent - no",
+  "auto": true,
+  "contexts": [
+    "DefaultWelcomeIntent-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "DefaultWelcomeIntent.DefaultWelcomeIntent-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "fr",
+          "speech": "D\u0027accord à une prochaine fois !"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1508189126624,
+  "fallbackIntent": false,
+  "events": []
+}

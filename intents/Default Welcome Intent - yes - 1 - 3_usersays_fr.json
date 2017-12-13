@@ -1,0 +1,46 @@
+[
+  {
+    "id": "fe3e28d6-415f-4053-9304-df9823067db2",
+    "data": [
+      {
+        "text": "3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "f6a749b3-f423-497e-958b-56392aaa4bdb",
+    "data": [
+      {
+        "text": "Le 3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  },
+  {
+    "id": "ea954012-f04e-48aa-9b73-64002980d974",
+    "data": [
+      {
+        "text": "Je préfères ",
+        "userDefined": false
+      },
+      {
+        "text": "le 3",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " !",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0
+  }
+]
